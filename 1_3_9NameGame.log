@@ -1,0 +1,30 @@
+# IPython log file
+
+%run "C:\Users\nguyencq19\AppData\Local\Temp\4\Temp1_1-3-9Test-master.zip\1-3-9Test-master\1-3-9NameGame.py"
+who_is_this
+#[Out]# <function who_is_this at 0x0000000007FED2E8>
+who_is_this()
+who_is_this()
+%run "C:\Users\nguyencq19\AppData\Local\Temp\4\Temp1_1-3-9Test-master.zip\1-3-9Test-master\1-3-9NameGame.py"
+%cd "C:\Users\nguyencq19\Documents\Python Stuff"
+%logstart -ort.1_3_9NameGame.log
+%logstart -ort 1_3_9NameGame.log
+who_is_this()
+who_is_this()
+%run "c:\users\nguyen~1\appdata\local\temp\4\tmpjq6wqf.py"
+%logstart -ort 1_3_9NameGame.log
+5logstop
+%logstop
+%cd "C:\Users\nguyencq19\Documents\Python Stuff"
+# Tue, 05 Feb 2019 13:22:35
+who_is_this()
+# Tue, 05 Feb 2019 13:22:43
+who_is_this()
+# Tue, 05 Feb 2019 13:22:49
+who_is_this()Carlos
+# Tue, 05 Feb 2019 13:22:55
+who_is_this()
+# Tue, 05 Feb 2019 13:23:11
+who_is_this()
+# Tue, 05 Feb 2019 13:23:22
+%logstop
